@@ -38,3 +38,7 @@
 6.1 Finsh 的基本使用
 6.2 在 Finsh 中运行自定义函数
 6.3 在 Finsh 中查看自定义变量
+
+
+attention: 例程代码在 rtt_lyy 目录中。目录已有工程文件，打开
+即可编译。每一个例程主要的差别在 application.c 文件中。
