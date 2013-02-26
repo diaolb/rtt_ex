@@ -1,0 +1,11 @@
+*.o
+
+.svn
+
+# project related #
+*.lst
+*.txt
+*.Bak
+*.map
+*.cbp
+*.dep
